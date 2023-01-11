@@ -5,6 +5,10 @@ public static void main(String[] args) {
 	System.out.println("Java Coding Starts......");
 	System.out.println("Selenium Coding Starts");
 	System.out.println("FrameWork Session Starts.....");
+<<<<<<< HEAD
 	System.out.println("ABC.....");
+=======
+	System.out.println("Programming session Starts.....");
+>>>>>>> c48a51567555c9c7da2614a42c3186c20aeba580
 }
 }
